@@ -4,7 +4,7 @@
 - 🎓 Desenvolvimento de Sistemas 2/5
 - 📖 <cite>Não devemos ter medo das novas ideias! Elas podem significar a diferença entre o triunfo e o fracasso. - <strong>Napoleon Hill</strong></cite>
 
-
+<hr>
 
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorFelipeDev&show_icons=true&theme=radical)
 
@@ -23,8 +23,13 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
+
 ### Netlify
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]('https://app.netlify.com/teams/heitor-juvencio/overview')
+<div>
+Link: https://app.netlify.com/teams/heitor-juvencio/overview
+</div>
 
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFelipeDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
