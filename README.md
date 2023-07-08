@@ -10,12 +10,6 @@
         - 📖 <cite>Não devemos ter medo das novas ideias! Elas podem significar a diferença entre o triunfo e o fracasso. - <strong>Napoleon Hill</strong></cite>
     </div>
     <hr>
-    <div style="display: inline_block;" align="center">
-        <img style="height: 100px" src="https://giffiles.alphacoders.com/131/13142.gif">
-        <img style="height: 100px" src="https://i.pinimg.com/originals/00/aa/34/00aa34b9ae1fcf98d439d25ff6e3b978.gif">
-        <img style="height: 100px" src="https://c.tenor.com/u9PUI2VfXKkAAAAC/vegeta-gifs.gif">
-        <img style="height: 100px" src="https://i.pinimg.com/originals/ae/85/86/ae8586734449e093cab21ac6d62e2d69.gif">
-    </div>
 </div>
 
 <hr>
