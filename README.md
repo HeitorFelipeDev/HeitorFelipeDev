@@ -11,7 +11,7 @@
     </div>
 
 </div>
-
+<hr>
 
 
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorFelipeDev&show_icons=true&theme=radical)
