@@ -9,10 +9,10 @@
         <br>
         - 📖 <cite>Não devemos ter medo das novas ideias! Elas podem significar a diferença entre o triunfo e o fracasso. - <strong>Napoleon Hill</strong></cite>
     </div>
-    <hr>
+
 </div>
 
-<hr>
+
 
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorFelipeDev&show_icons=true&theme=radical)
 
