@@ -32,9 +32,3 @@
 </div>
 
 
-### Netlify
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]('https://app.netlify.com/teams/heitor-juvencio/overview')
-<div>
-Link: https://app.netlify.com/teams/heitor-juvencio/overview
-</div>
-
